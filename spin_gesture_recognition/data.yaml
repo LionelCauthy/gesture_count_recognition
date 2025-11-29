@@ -8,6 +8,6 @@ names: ['five', 'four', 'good', 'ok', 'one', 'ten', 'three', 'yes']
 roboflow:
   workspace: demo-mwv0w
   project: gesture_recognition-pi3pv
-  version: 6
+  version: 7
   license: CC BY 4.0
-  url: https://universe.roboflow.com/demo-mwv0w/gesture_recognition-pi3pv/dataset/6
+  url: https://universe.roboflow.com/demo-mwv0w/gesture_recognition-pi3pv/dataset/7
