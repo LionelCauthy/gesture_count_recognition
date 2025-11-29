@@ -1,8 +1,8 @@
 
-gesture_recognition - v7 spin_gesture
+gesture_recognition - v8 gesture_refine
 ==============================
 
-This dataset was exported via roboflow.com on November 29, 2025 at 8:47 AM GMT
+This dataset was exported via roboflow.com on November 29, 2025 at 4:27 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 486 images.
+The dataset includes 197 images.
 Gestures are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
@@ -26,5 +26,7 @@ The following pre-processing was applied to each image:
 
 The following augmentation was applied to create 2 versions of each source image:
 * Equal probability of one of the following 90-degree rotations: none, clockwise, counter-clockwise
+* Random exposure adjustment of between -10 and +10 percent
+* Random Gaussian blur of between 0 and 2.2 pixels
 
 

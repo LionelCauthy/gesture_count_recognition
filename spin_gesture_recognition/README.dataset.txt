@@ -1,4 +1,4 @@
-# gesture_recognition > spin_gesture
+# gesture_recognition > gesture_refine
 https://universe.roboflow.com/demo-mwv0w/gesture_recognition-pi3pv
 
 Provided by a Roboflow user
