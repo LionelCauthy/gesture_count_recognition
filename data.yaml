@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 6
-names: ['four', 'good', 'ok', 'one', 'three', 'yes']
+nc: 8
+names: ['five', 'four', 'good', 'ok', 'one', 'ten', 'three', 'yes']
 
 roboflow:
   workspace: demo-mwv0w
   project: gesture_recognition-pi3pv
-  version: 3
+  version: 5
   license: CC BY 4.0
-  url: https://universe.roboflow.com/demo-mwv0w/gesture_recognition-pi3pv/dataset/3
+  url: https://universe.roboflow.com/demo-mwv0w/gesture_recognition-pi3pv/dataset/5
