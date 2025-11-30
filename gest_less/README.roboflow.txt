@@ -1,8 +1,8 @@
 
-gesture - v4 gest_less
+gesture - v5 gest_less
 ==============================
 
-This dataset was exported via roboflow.com on November 30, 2025 at 1:11 PM GMT
+This dataset was exported via roboflow.com on November 30, 2025 at 1:45 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,14 +17,15 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 199 images.
+The dataset includes 281 images.
 One-two-three-four-five are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
 * Resize to 640x640 (Fit within)
 
-The following augmentation was applied to create 2 versions of each source image:
+The following augmentation was applied to create 3 versions of each source image:
 * Randomly crop between 0 and 20 percent of the image
+* Random rotation of between -8 and +8 degrees
 
 

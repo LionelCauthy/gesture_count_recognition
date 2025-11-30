@@ -8,6 +8,6 @@ names: ['five', 'four', 'ok', 'one', 'two']
 roboflow:
   workspace: demo-mwv0w
   project: gesture-khcyw
-  version: 4
+  version: 5
   license: CC BY 4.0
-  url: https://universe.roboflow.com/demo-mwv0w/gesture-khcyw/dataset/4
+  url: https://universe.roboflow.com/demo-mwv0w/gesture-khcyw/dataset/5
