@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['five', 'four', 'good', 'ok', 'one', 'ten', 'three', 'two']
+
+roboflow:
+  workspace: demo-mwv0w
+  project: gesture-khcyw
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/demo-mwv0w/gesture-khcyw/dataset/3
